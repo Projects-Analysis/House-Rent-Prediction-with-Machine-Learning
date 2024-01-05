@@ -1,4 +1,5 @@
 # House Rent Prediction with Machine Learning 
+In the complex and ever-shifting landscape of the housing market, accurately predicting rent prices can be a daunting task. Tenants grapple with finding affordable options while landlords struggle to gauge the true value of their properties. This is where machine learning (ML) steps in, offering a powerful tool to navigate the intricacies of rent prediction. This project delves into the fascinating realm of ML algorithms, aiming to develop a model that can accurately predict house rent based on various key factors.
 
 
 ![HO1](https://github.com/Projects-Analysis/House-Rent-Prediction-with-Machine-Learning/assets/149543175/892ed390-a8cb-4d78-b723-3d26283cd297)
@@ -27,7 +28,11 @@
 ![HO24](https://github.com/Projects-Analysis/House-Rent-Prediction-with-Machine-Learning/assets/149543175/ebcf80c9-c455-4c66-a379-bfeeea0cd54f)
 ![HO25](https://github.com/Projects-Analysis/House-Rent-Prediction-with-Machine-Learning/assets/149543175/66b7ed3f-4d24-4a18-bee1-e4f7ade06cdf)
 ![HO26](https://github.com/Projects-Analysis/House-Rent-Prediction-with-Machine-Learning/assets/149543175/43f45994-6b34-4ec6-b297-07c339ea6523)
-![HO27](https://github.com/Projects-Analysis/House-Rent-Prediction-with-Machine-Learning/assets/149543175/8f6baa29-288f-49a1-8f70-cbd8e8540fcb)
+![HO27](https://github.com/Projects-Analysis/House-Rent-Prediction-with-Machine-Learning/assets/149543175/8f6baa29-288f-49a1-8f70-cbd8e8540fcb) 
+
+
+# Conclusion
+This project has taken a significant step towards harnessing the power of ML for accurate house rent prediction. By building and evaluating the ML model, we have demonstrated the potential for technology to navigate the complexities of the housing market with remarkable precision. The developed model offers tenants a better understanding of rental trends, enabling them to budget effectively and choose suitable options. For landlords, it provides a data-driven basis for setting competitive rent prices, maximizing their market reach and optimizing rental returns.
 
 
 
