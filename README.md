@@ -1,6 +1,7 @@
 # House Rent Prediction with Machine Learning 
 In the complex and ever-shifting landscape of the housing market, accurately predicting rent prices can be a daunting task. Tenants grapple with finding affordable options while landlords struggle to gauge the true value of their properties. This is where machine learning (ML) steps in, offering a powerful tool to navigate the intricacies of rent prediction. This project delves into the fascinating realm of ML algorithms, aiming to develop a model that can accurately predict house rent based on various key factors.
 
+![H1](https://github.com/Projects-Analysis/House-Rent-Prediction-with-Machine-Learning/assets/149543175/4c4c9436-20f3-4ab6-bbd6-1b0864adbdf0)
 
 ![HO1](https://github.com/Projects-Analysis/House-Rent-Prediction-with-Machine-Learning/assets/149543175/892ed390-a8cb-4d78-b723-3d26283cd297)
 ![HO2](https://github.com/Projects-Analysis/House-Rent-Prediction-with-Machine-Learning/assets/149543175/edc5e3be-e076-4bbc-ae45-a02a0e6afffa)
